@@ -14,7 +14,7 @@
 * https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=360652#forumpost360652
 
 
-## How to Build
+## How to build
 
 ### Install Package: [libx11-dev](https://packages.ubuntu.com/bionic/libx11-dev)
 
@@ -32,7 +32,8 @@ run [build.sh](build.sh)
 $ ./build.sh
 ```
 
-## How to Test
+
+## How to test
 
 ### toggle
 
@@ -68,4 +69,23 @@ show
 
 ```
 _MOTIF_WM_HINTS(_MOTIF_WM_HINTS) = 0x2, 0x0, 0x0, 0x0, 0x0
+```
+
+
+## How to install
+
+### install
+
+run [install.sh](install.sh)
+
+``` sh
+$ ./install.sh
+```
+
+### remove
+
+run [remove.sh](remove.sh)
+
+``` sh
+$ ./remove.sh
 ```
