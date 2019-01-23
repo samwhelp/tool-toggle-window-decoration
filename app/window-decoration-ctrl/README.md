@@ -50,10 +50,22 @@ run [test-decorate.sh](test-decorate.sh)
 $ ./test-decorate.sh
 ```
 
+show
+
+```
+_MOTIF_WM_HINTS(_MOTIF_WM_HINTS) = 0x2, 0x0, 0x1, 0x0, 0x0
+```
+
 ### undecorate
 
 run [test-undecorate.sh](test-undecorate.sh)
 
 ``` sh
 $ ./test-undecorate.sh
+```
+
+show
+
+```
+_MOTIF_WM_HINTS(_MOTIF_WM_HINTS) = 0x2, 0x0, 0x0, 0x0, 0x0
 ```

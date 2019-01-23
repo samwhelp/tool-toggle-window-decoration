@@ -7,4 +7,9 @@ main_test () {
 	./window-decoration-ctrl toggle "$wid"
 }
 
+grep_prop () {
+	xprop -name 'xzoom x2' | grep _MOTIF_WM_HINTS
+}
+
 main_test
+grep_prop
