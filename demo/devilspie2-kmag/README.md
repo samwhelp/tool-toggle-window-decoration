@@ -44,7 +44,7 @@ $ kmag
 
 ## How to autostart devilspie
 
-run [autostart-config.sh](autostart-config.sh) to copy [[devilspie2.desktop](devilspie2.desktop)] to [~/.config/autostart/devilspie.desktop]
+run [autostart-config.sh](autostart-config.sh) to copy [[devilspie2.desktop](devilspie2.desktop)] to [~/.config/autostart/devilspie2.desktop]
 
 ``` sh
 $ ./autostart-config.sh
