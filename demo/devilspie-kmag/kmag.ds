@@ -2,9 +2,15 @@
 
 ; kmag rule to undecorate all existing and new windows
 
-(if (is (window_class) "kmag")
+(if
+	(is
+		(window_class)
+		"kmag"
+	)
 	(begin
 		(undecorate)
-		;(geometry "823x363+200+404")
+		;(geometry
+		;	"823x363+200+404"
+		;)
 	)
 )

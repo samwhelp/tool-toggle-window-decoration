@@ -4,43 +4,73 @@
 
 ; for [$ xzoom]
 ; for [$ xzoom -mag 2]
-(if (is (application_name) "xzoom x2")
+(if
+	(is
+		(application_name)
+		"xzoom x2"
+	)
 	(begin
 		(undecorate)
-		;(geometry "823x363+200+404")
+		;(geometry
+		;	"823x363+200+404"
+		;)
 	)
 )
 
 ; File: [/usr/share/applications/xzoom.desktop]
 ; Content: [Exec=xzoom -mag 3 -geometry 320x240]
 ; for [$ xzoom -mag 3]
-(if (is (application_name) "xzoom x3")
+(if
+	(is
+		(application_name)
+		"xzoom x3"
+	)
 	(begin
 		(undecorate)
-		;(geometry "823x363+200+404")
+		;(geometry
+		;	"823x363+200+404"
+		;)
 	)
 )
 
 ; for [$ xzoom -mag 4]
-(if (is (application_name) "xzoom x4")
+(if
+	(is
+		(application_name)
+		"xzoom x4"
+	)
 	(begin
 		(undecorate)
-		;(geometry "823x363+200+404")
+		;(geometry
+		;	"823x363+200+404"
+		;)
 	)
 )
 
 ; for [$ xzoom -mag 5]
-(if (is (application_name) "xzoom x5")
+(if
+	(is
+		(application_name)
+		"xzoom x5"
+	)
 	(begin
 		(undecorate)
-		;(geometry "823x363+200+404")
+		;(geometry
+		;	"823x363+200+404"
+		;)
 	)
 )
 
 ; for [$ xzoom -mag 10]
-(if (is (application_name) "xzoom x10")
+(if
+	(is
+		(application_name)
+		"xzoom x10"
+	)
 	(begin
 		(undecorate)
-		;(geometry "823x363+200+404")
+		;(geometry
+		;	"823x363+200+404"
+		;)
 	)
 )
