@@ -1,0 +1,60 @@
+
+(begin
+
+	; for [$ xzoom -mag 2]
+	(if
+		(is
+			(application_name)
+			"xzoom x2"
+		)
+		(begin
+			(decorate)
+		)
+	)
+
+	; for [$ xzoom -mag 3]
+	(if
+		(is
+			(application_name)
+			"xzoom x3"
+		)
+		(begin
+			(decorate)
+		)
+	)
+
+	; for [$ xzoom -mag 4]
+	(if
+		(is
+			(application_name)
+			"xzoom x4"
+		)
+		(begin
+			(decorate)
+		)
+	)
+
+	; for [$ xzoom -mag 5]
+	(if
+		(is
+			(application_name)
+			"xzoom x5"
+		)
+		(begin
+			(decorate)
+		)
+	)
+
+	; for [$ xzoom -mag 10]
+	(if
+		(is
+			(application_name)
+			"xzoom x10"
+		)
+		(begin
+			(decorate)
+		)
+	)
+
+	(quit)
+)
