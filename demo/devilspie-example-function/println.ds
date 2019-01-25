@@ -1,0 +1,6 @@
+
+(println
+	"aaa"
+	"\tbbb"
+	"\tccc\n"
+)
