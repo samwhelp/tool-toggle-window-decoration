@@ -1,0 +1,14 @@
+
+(begin
+	(if
+		(is
+			(window_class)
+			"kmag"
+		)
+		(begin
+			(undecorate)
+		)
+	)
+
+	(quit)
+)
