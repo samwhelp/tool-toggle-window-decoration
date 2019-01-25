@@ -1,0 +1,7 @@
+
+(begin
+	(println "a")
+	(println "b")
+	(println "c")
+	(println "")
+)

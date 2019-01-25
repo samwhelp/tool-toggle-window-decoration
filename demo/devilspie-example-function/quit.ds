@@ -1,0 +1,6 @@
+
+(begin
+	(println "hello")
+	(println "")
+	(quit)
+)
