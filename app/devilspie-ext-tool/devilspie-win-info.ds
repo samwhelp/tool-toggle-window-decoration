@@ -1,0 +1,43 @@
+
+(begin
+	(println
+
+		"application_name: "
+		(application_name)
+
+		"\n"
+
+		"window_name: "
+		(window_name)
+
+		"\n"
+
+		"window_class: "
+		(window_class)
+
+		"\n"
+
+		"window_xid: "
+		(window_xid)
+
+		"\n"
+
+		"window_role: "
+		(window_role)
+
+		"\n"
+
+		"window_workspace: "
+		(window_workspace)
+
+		"\n"
+
+		;"window_property(_NET_WM_STATE): "
+		;(window_property "_NET_WM_STATE")
+
+		;"\n"
+
+	)
+
+	(quit)
+)
