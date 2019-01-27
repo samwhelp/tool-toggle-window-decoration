@@ -9,4 +9,4 @@
 
 ## explore
 
-* [libwnck-3-dev](expore/libwnck-3-dev)
+* [libwnck-3-dev](explore/libwnck-3-dev)

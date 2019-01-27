@@ -18,5 +18,5 @@ show
 
 ## tool
 
-* [wnckprop](command/wnckprop.md)
+* [wnckprop](command/wnckprop)
 * wnck-urgency-monitor
