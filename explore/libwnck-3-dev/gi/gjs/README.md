@@ -2,6 +2,10 @@
 ## prototype
 
 * [mainloop](prototype/mainloop/main.js)
+* [daemon](prototype/daemon/main.js)
+* [control](prototype/control/main.js)
+* [wnck-win-info](prototype/wnck-win-info/main.js)
+* [wnck-win-list](prototype/wnck-win-list/main.js)
 
 
 ## doc
