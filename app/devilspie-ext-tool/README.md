@@ -54,7 +54,13 @@ install file list
 /usr/local/share/devilspie-ext-tool/devilspie-debug-info.ds
 ```
 
-## How to test **devilspie-win-info**
+## Command
+
+* [devilspie-win-info](#how-to-test-devilspie-win-info)
+* [devilspie-win-list](#how-to-test-devilspie-win-list)
+* [devilspie-debug-info](#how-to-test-devilspie-debug-info)
+
+## How to test [devilspie-win-info]
 
 ### list window info
 
@@ -157,7 +163,7 @@ show
 60817418
 ```
 
-## How to test **devilspie-win-list**
+## How to test [devilspie-win-list]
 
 ### list window info
 
@@ -345,7 +351,7 @@ Terminal
 Terminal
 ```
 
-## How to test **devilspie-debug-info**
+## How to test [devilspie-debug-info]
 
 ### list window info
 
