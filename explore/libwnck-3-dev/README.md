@@ -14,6 +14,7 @@
 
 * https://developer.gnome.org/libwnck/stable/
 * https://developer.gnome.org/glib/stable/glib-The-Main-Event-Loop.html
+* https://lazka.github.io/pgi-docs/index.html#Wnck-3.0
 
 
 ## example
