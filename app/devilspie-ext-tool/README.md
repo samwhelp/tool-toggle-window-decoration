@@ -37,9 +37,21 @@ $ ./remove.sh
 install file list
 
 ```
+/usr/local/bin/devilspie-win-info
 /usr/local/share/devilspie-ext-tool/devilspie-win-info.sh
 /usr/local/share/devilspie-ext-tool/devilspie-win-info.ds
-/usr/local/bin/devilspie-win-info
+```
+
+```
+/usr/local/bin/devilspie-win-list
+/usr/local/share/devilspie-ext-tool/devilspie-win-list.sh
+/usr/local/share/devilspie-ext-tool/devilspie-win-list.ds
+```
+
+```
+/usr/local/bin/devilspie-debug-info
+/usr/local/share/devilspie-ext-tool/devilspie-debug-info.sh
+/usr/local/share/devilspie-ext-tool/devilspie-debug-info.ds
 ```
 
 ## How to test **devilspie-win-info**
