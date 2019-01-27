@@ -10,3 +10,10 @@
 * https://gjs-tutorial.readthedocs.io/en/latest/
 * http://devdocs.baznga.org/glib20~2.50.0-mainloop/
 * http://devdocs.baznga.org/glib20~2.50.0/glib.mainloop
+
+
+## install package
+
+``` sh
+$ sudo apt-get install gir1.2-wnck-3.0 gjs
+```
