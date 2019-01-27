@@ -1,14 +1,14 @@
 
-# wnckprop / example
+# wnckprop / example-list
 
 
-## list all
+## list all windows
 
 ``` sh
 $ wnckprop --list
 ```
 
-## list by workspace
+## list windows by workspace
 
 run
 

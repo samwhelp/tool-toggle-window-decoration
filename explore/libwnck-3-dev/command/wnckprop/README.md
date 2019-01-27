@@ -24,3 +24,4 @@
 * [list](example-list.md)
 * [list-workspaces](example-list-workspaces.md)
 * [workspace](example-workspace.md)
+* [window](example-window.md)

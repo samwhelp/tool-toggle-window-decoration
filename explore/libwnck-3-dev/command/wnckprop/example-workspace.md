@@ -1,5 +1,5 @@
 
-# wnckprop / example
+# wnckprop / example-workspace
 
 
 ## list all
