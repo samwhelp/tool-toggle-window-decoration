@@ -44,4 +44,4 @@ show like
 
 ## more
 
-* [list-workspaces](example-list-workspaces.md)
+* [example-list-workspaces](example-list-workspaces.md)

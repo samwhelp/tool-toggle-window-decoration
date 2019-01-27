@@ -22,4 +22,4 @@ show
 
 ## more
 
-* [list](example-list.md)
+* [example-list](example-list.md)
