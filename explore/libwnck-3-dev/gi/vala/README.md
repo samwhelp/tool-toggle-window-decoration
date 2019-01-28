@@ -4,6 +4,8 @@
 
 * [daemon](prototype/daemon/main.vala)
 * [control](prototype/control/main.vala)
+* [wnck-win-info](prototype/wnck-win-info/main.vala)
+* [wnck-win-list](prototype/wnck-win-list/main.vala)
 
 
 ## doc
