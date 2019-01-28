@@ -6,6 +6,7 @@
 * [control](prototype/control/main.js)
 * [wnck-win-info](prototype/wnck-win-info/main.js)
 * [wnck-win-list](prototype/wnck-win-list/main.js)
+* [mousepad-move-to-workspace](prototype/mousepad-move-to-workspace/)
 
 
 ## doc
