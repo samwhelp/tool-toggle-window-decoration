@@ -14,24 +14,24 @@ const Wnck = imports.gi.Wnck;
 Gtk.init(null);
 
 
-let on_window_opened = function (screen, widow) {
+let on_window_opened = function (screen, window) {
 
 	print(""
 
 		+ "window_xid: "
-		+ widow.get_xid()
+		+ window.get_xid()
 		+ ";   "
 
 		+ "window_class: "
-		+ widow.get_class_group_name()
+		+ window.get_class_group_name()
 		+ ";   "
 
 		+ "application_name: "
-		+ widow.get_application().get_name()
+		+ window.get_application().get_name()
 		+ ";   "
 
 		+ "window_name: "
-		+ widow.get_application().get_name()
+		+ window.get_application().get_name()
 		+ ";   "
 
 	);

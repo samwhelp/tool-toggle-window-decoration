@@ -14,7 +14,7 @@ const Wnck = imports.gi.Wnck;
 Gtk.init(null);
 
 
-let on_window_opened = function (screen, widow) {
+let on_window_opened = function (screen, window) {
 	print("on_window_opened\n");
 }
 

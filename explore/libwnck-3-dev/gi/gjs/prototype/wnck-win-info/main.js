@@ -14,12 +14,12 @@ const Wnck = imports.gi.Wnck;
 Gtk.init(null);
 
 
-let on_window_opened = function (screen, widow) {
+let on_window_opened = function (screen, window) {
 
-	print("application_name:", widow.get_application().get_name());
-	print("window_name:", widow.get_application().get_name());
-	print("window_class:", widow.get_class_group_name());
-	print("window_xid:", widow.get_xid());
+	print("application_name:", window.get_application().get_name());
+	print("window_name:", window.get_application().get_name());
+	print("window_class:", window.get_class_group_name());
+	print("window_xid:", window.get_xid());
 
 	print("");
 

@@ -15,7 +15,18 @@ Gtk.init(null);
 
 
 let on_window_opened = function (screen, window) {
-	print("on_window_opened\n");
+
+	/*
+	print("application_name:", window.get_application().get_name());
+	print("window_name:", window.get_application().get_name());
+	print("window_class:", window.get_class_group_name());
+	print("window_xid:", window.get_xid());
+	*/
+
+	if (window.get_class_group_name() === 'Mousepad') {
+		window.set_fullscreen(true);
+	}
+
 	loop.quit();
 }
 

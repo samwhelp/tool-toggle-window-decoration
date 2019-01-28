@@ -4,7 +4,7 @@ const GLib = imports.gi.GLib;
 const Wnck = imports.gi.Wnck;
 
 
-let on_window_opened = function (screen, widow) {
+let on_window_opened = function (screen, window) {
 
 }
 
