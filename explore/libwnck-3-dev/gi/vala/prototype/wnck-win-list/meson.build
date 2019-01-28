@@ -1,0 +1,5 @@
+project('demo', 'vala', 'c')
+add_global_arguments('-DWNCK_I_KNOW_THIS_IS_UNSTABLE', language : 'c')
+libgtk_dep = dependency('gtk+-3.0', version: '>=3.22')
+libwnck_dep = dependency('libwnck-3.0', version: '>=3.24')
+executable('demo', 'main.vala', dependencies : [libgtk_dep, libwnck_dep])
