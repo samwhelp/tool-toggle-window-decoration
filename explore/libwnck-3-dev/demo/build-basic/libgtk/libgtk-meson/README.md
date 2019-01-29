@@ -20,14 +20,16 @@ $ meson build
 then run
 
 ``` sh
-$ cd build
+$ ninja -C build
 ```
 
-then run
+or run
 
 ``` sh
-$ ninja
+cd build
+ninja
 ```
+
 
 ## How to test
 

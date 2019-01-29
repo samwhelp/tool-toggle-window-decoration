@@ -1,10 +1,5 @@
 
 
-## Reference
-
-* https://mesonbuild.com/Adding-arguments.html
-
-
 ## How to build
 
 run
