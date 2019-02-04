@@ -1,0 +1,20 @@
+; https://help.ubuntu.com/community/Devilspie
+; https://github.com/GNOME/devilspie/blob/master/src/parser.c#L38
+
+; mpv rule
+
+(if
+	(is
+		(window_class)
+		"mpv"
+	)
+	(begin
+		(undecorate)
+		(center)
+		;(fullscreen)
+		(maximize)
+		;(geometry
+		;	"823x363+200+404"
+		;)
+	)
+)
