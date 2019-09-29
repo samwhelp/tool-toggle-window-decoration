@@ -24,6 +24,10 @@ help:
 	@echo make mpv-remove
 	@echo
 
+	@echo make gnome-terminal-install
+	@echo make gnome-terminal-remove
+	@echo	
+
 	@echo make kmag-install
 	@echo make kmag-remove
 	@echo
