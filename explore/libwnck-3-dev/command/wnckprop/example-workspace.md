@@ -5,7 +5,7 @@
 ## list all
 
 ``` sh
-$ wnckprop --workspace=0
+$ wnckprop --list-workspaces
 ```
 
 ## info by workspace
